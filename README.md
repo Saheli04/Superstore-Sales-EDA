@@ -480,57 +480,32 @@ Tom Ashbrook recorded the highest total sales among the customers analyzed at **
 # 📊 Visualizations
 
 
+### Sales by Category
+![Sales by Category](images/sales_by_category.png)
 
-### Distribution Analysis
+### Profit by Category
+![Profit by Category](images/profit_by_category.png)
 
-* Sales distribution
-* Profit distribution
-* Quantity distribution
-* Sales boxplot
-* Profit boxplot
+### Sales by Region
+![Sales by Region](images/sales_by_region.png)
 
-### Category Analysis
+### Yearly Sales Trend
+![Yearly Sales](images/yearly_sales.png)
 
-* Sales by category
-* Profit by category
-* Sales by sub-category
-* Profit by sub-category
+### Sales vs Profit
+![Sales vs Profit](images/sales_vs_profit.png)
 
-### Geographic Analysis
+### Discount vs Profit
+![Discount vs Profit](images/discount_vs_profit.png)
 
-* Sales by market
-* Sales by region
-* Top countries by sales
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
 
-### Customer Analysis
+### Top Products by Sales
+![Top Products](images/top_products_by_sales.png)
 
-* Sales by customer segment
-* Top customers by sales
-
-### Time-Series Analysis
-
-* Yearly sales trend
-* Monthly sales trend
-* Quarterly sales analysis
-
-### Relationship Analysis
-
-* Sales vs Profit
-* Discount vs Profit
-* Discount distribution by category
-* Correlation heatmap
-
-### Product Analysis
-
-* Top 10 products by sales
-* Top 10 products by profit
-* Top 10 loss-making products
-
-### Shipping Analysis
-
-* Orders by shipping mode
-* Distribution of shipping days
-
+### Loss-Making Products
+![Loss-Making Products](images/loss_making_products.png)
 ---
 
 # 💡 Key Business Insights
